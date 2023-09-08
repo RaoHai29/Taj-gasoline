@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400;500;600;700&family=Maven+Pro:wght@400;500;600;700;800;900&display=swap');
+*{
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.chp3{
+    background-color: #ED1C24;
+    margin-top: 20px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+.chp3 .chp3-left,.chp3 .chp3-right{
+    flex: 50%;   
+}
+
+.chp3 .chp3-left img{
+    width: 750px;
+}
+.chp3 .chp3-left .img{
+    height: 900px;
+}
+.chp3 .chp3-right {
+    background-color: #ED1C24;
+    padding-left: 20px;
+    width: 100%;
+    padding-top: 150px;
+    overflow:hidden;
+}
+.chp3 .chp3-right h1{
+    font-family: 'Maven Pro', sans-serif;
+    color: white;
+    font-size: 35px;
+    font-weight: 800;
+}
+.chp3 .chp3-right .h2{
+    font-family: 'Maven Pro', sans-serif;
+    color: white;
+    font-size: 68px;
+    font-weight: 900;
+}
+.chp3 .chp3-right .logo-chp3{
+    margin-top: 20px;
+    width: 120px;
+}
+.staff,.stf{
+    padding-left: 20px;
+    width: 100%;
+    margin-top: 20px;
+    font-family: 'Maven Pro', sans-serif;
+}
+.staff h1{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 64px;
+    font-weight: 800;
+}
+.staff p{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 15px;
+    width: 80%;
+    color: black;
+    
+}
+.staff center img{
+    width: 500px;
+}
+.staff h2{
+    font-size: 32px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 800;
+    color: #ED1C24;
+
+}
+.staff h3{
+    font-size: 27px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 700;
+    color: rgb(33, 30, 30); 
+}
+.staff h4{
+    font-size: 20px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 700;
+    color: rgb(33, 30, 30); 
+}
+.staff center .fig{
+    width: 750px;
+}
+
+.stf h2{
+    font-size: 32px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 800;
+    color:  rgb(68, 62, 62);;
+
+}
+.stf h3{
+    font-size: 27px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 700;
+    color: rgb(33, 30, 30); 
+}
+.stf h4{
+    font-size: 20px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 700;
+    color: rgb(33, 30, 30); 
+}
+.stf p{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 15px;
+    width: 80%;
+    color: black;  
+}
+.stf center img{
+    width: 600px;
+}
+
+.reform{
+    width: 100%;
+    background-color: white;
+    font-family: 'Maven Pro', sans-serif;
+    padding-left: 20px;
+}
+
+.reform h1{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 33px;
+    font-weight: 800;
+    color: #ED1C24;
+}
+.reform h2{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: black;
+   
+}
+.reform h3{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+   
+}
+.reform p{
+    color: black;
+    font-size: 15px;
+    width: 75%;
+    font-family: 'Maven Pro', sans-serif;
+}
+.reform center img{
+    width: 700px;
+}
+.reform center .di-1{
+    width: 500px;
+}
+.reform center .di-2{
+    width: 600px;
+}
+.reform center .di-3{
+    width: 900px;
+}
+.reform center .di-1-1{
+    width: 600px;
+    height: 300px;
+    border-radius: 15px;
+}
+.reform h5{
+    width: 80%;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+}

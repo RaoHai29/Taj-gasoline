@@ -1,0 +1,123 @@
+.customer-service{
+    width: 100%;
+    height: auto;
+    background: white;
+    padding-left: 20px;
+}
+.customer-service h1{
+    color: #ED1C24;
+    font-size: 72px;
+    font-weight: 800;
+    font-family: 'Maven Pro',sans-serif;
+}
+.customer-service .c-h1{
+    margin-top: -20px;
+}
+.customer-service p{
+    font-size: 16px;
+    font-family: 'Maven Pro',sans-serif;
+    color: black;
+    width: 60%;
+    text-align: justify;
+}
+.customer-service h2{
+    color: #ED1C24;
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Maven Pro',sans-serif;
+}
+.customer-service .custom-text{
+    padding-left: 40px;
+}
+.customer-service .custom-text h4{
+    font-size: 20px;
+    font-family: 'Maven Pro',sans-serif;
+    color: rgb(71, 66, 66);
+    font-weight: 600;
+}
+.customer-service .custom-text h6{
+    padding-left: 20px;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+.customer-service .custom-text p{
+    width: 80%;
+    padding-left: 20px;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+.vision .vision-right .custom-text-vision{
+    padding-left: 20px;
+    color: black;
+}
+.vision .vision-right .custom-text-vision h6{
+    font-family: 'Maven Pro',sans-serif;
+}
+.vision .vision-right .custom-text-vision p{
+    width: 85%;
+    padding-left: 20px;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 12.5px;
+    font-weight: 500;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+
+.market-visit{
+    width: 100%;
+    color: black;
+    font-family: 'Maven Pro',sans-serif;
+    padding-left: 10px;
+}
+.market-visit h2{
+    color: black;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+}
+.market-visit p{
+    padding-left: 10px;
+    background-color: white;
+    color: black;
+    font-family: 'Maven Pro',sans-serif;
+    width: 80%;
+
+
+}
+.market-visit h3{
+    padding-left: 10px;
+    font-size: 23px;
+    font-weight: 700;
+}
+.market-visit .mvt{
+    width: 80%;
+    text-align: justify;
+}
+.market-visit ol{
+    color: #ED1C24;
+    font-weight: bold;
+}
+.market-visit ol li p{
+    color: black;
+    width: 60%;
+    font-weight: 500;
+
+}
+.market-visit center img{
+    width: 80%;
+}
+.market-visit .mvt-red{
+    color: #ED1C24;
+}
+.market-visit center .fee-2{
+    width: 600px;
+}
+.market-visit h4{
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+}
